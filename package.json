@@ -4,7 +4,7 @@
   "description": "Ryota Hirano",
   "private": true,
   "scripts": {
-    "start": "gulp",
+    "start": "vagrant up && gulp",
     "build": "gulp build"
   },
   "repository": {
